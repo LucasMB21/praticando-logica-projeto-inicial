@@ -14,6 +14,8 @@ https://praticando-logica-projeto-inicial.vercel.app/#
 
 * Esse é o terceiro projeto do carrinho de compras, foi trabalhado a lógica de programação com JavaScript.
 
+https://vercel.com/lucasmb21s-projects
+
   ![image](https://github.com/LucasMB21/praticando-logica-projeto-inicial/assets/130411731/1c5d9474-394f-45c4-9087-a7a3d925ae3a)
 
 
